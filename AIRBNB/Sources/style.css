@@ -1,0 +1,19 @@
+.img1{
+    margin-left: 20px;
+}
+.car1{
+    border: solid;
+    border-radius: 30px;
+    padding: 20px;
+    padding-bottom: 10px;
+    margin-left: 200px;
+    margin-right: -150px;
+}
+.p1{
+    display: inline-block;
+}
+.svg1{
+    background-color: #FF385C;
+    width: 29px;
+    height: 29px;
+    border-radius: 50%;
